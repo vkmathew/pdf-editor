@@ -6,7 +6,7 @@ Built using [PyPDF2](https://pypi.org/project/PyPDF2/), this project provides a 
 ---
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vkmathew/pdf-editor/blob/main/pdf_editor_demo.ipynb)
+[![Live Demo in Google Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vkmathew/pdf-editor/blob/main/pdf_editor_demo.ipynb)
 
 ---
 
